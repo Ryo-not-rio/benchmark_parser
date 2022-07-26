@@ -1,0 +1,39 @@
+  MD5                      :     285518 KiB/s,          0 cycles/byte
+  RIPEMD160                :     187342 KiB/s,          0 cycles/byte
+  SHA-1                    :     201135 KiB/s,          0 cycles/byte
+  SHA-256                  :     102813 KiB/s,          0 cycles/byte
+  SHA-512                  :     152790 KiB/s,          0 cycles/byte
+  3DES                     :      20961 KiB/s,          0 cycles/byte
+  DES                      :      50187 KiB/s,          0 cycles/byte
+  3DES-CMAC                :      19810 KiB/s,          0 cycles/byte
+  AES-CBC-128              :      99475 KiB/s,          0 cycles/byte
+  AES-CBC-192              :      77914 KiB/s,          0 cycles/byte
+  AES-CBC-256              :      79739 KiB/s,          0 cycles/byte
+  AES-XTS-128              :      82645 KiB/s,          0 cycles/byte
+  AES-XTS-256              :      77971 KiB/s,          0 cycles/byte
+  AES-GCM-128              :      60115 KiB/s,          0 cycles/byte
+  AES-GCM-192              :      55386 KiB/s,          0 cycles/byte
+  AES-GCM-256              :      56274 KiB/s,          0 cycles/byte
+  AES-CCM-128              :      41091 KiB/s,          0 cycles/byte
+  AES-CCM-192              :      38184 KiB/s,          0 cycles/byte
+  AES-CCM-256              :      35051 KiB/s,          0 cycles/byte
+  ChaCha20-Poly1305        :     165333 KiB/s,          0 cycles/byte
+  AES-CMAC-128             :      85379 KiB/s,          0 cycles/byte
+  AES-CMAC-192             :      81064 KiB/s,          0 cycles/byte
+  AES-CMAC-256             :      73852 KiB/s,          0 cycles/byte
+  AES-CMAC-PRF-128         :      80398 KiB/s,          0 cycles/byte
+  ARIA-CBC-128             :      77168 KiB/s,          0 cycles/byte
+  ARIA-CBC-192             :      75150 KiB/s,          0 cycles/byte
+  ARIA-CBC-256             :      64767 KiB/s,          0 cycles/byte
+  CAMELLIA-CBC-128         :      68812 KiB/s,          0 cycles/byte
+  CAMELLIA-CBC-192         :      53039 KiB/s,          0 cycles/byte
+  CAMELLIA-CBC-256         :      56830 KiB/s,          0 cycles/byte
+  ChaCha20                 :     222863 KiB/s,          0 cycles/byte
+  Poly1305                 :     740914 KiB/s,          0 cycles/byte
+  CTR_DRBG (NOPR)          :      83858 KiB/s,          0 cycles/byte
+  CTR_DRBG (PR)            :      60932 KiB/s,          0 cycles/byte
+  HMAC_DRBG SHA-1 (NOPR)   :      15476 KiB/s,          0 cycles/byte
+  HMAC_DRBG SHA-1 (PR)     :      14897 KiB/s,          0 cycles/byte
+  HMAC_DRBG SHA-256 (NOPR) :      12278 KiB/s,          0 cycles/byte
+  HMAC_DRBG SHA-256 (PR)   :      11180 KiB/s,          0 cycles/byte
+

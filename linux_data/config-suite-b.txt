@@ -1,0 +1,13 @@
+  SHA-256                  :      94852 KiB/s,         30 cycles/byte
+  SHA-512                  :     110138 KiB/s,         25 cycles/byte
+  AES-GCM-128              :      33581 KiB/s,         80 cycles/byte
+  AES-GCM-192              :      31535 KiB/s,         86 cycles/byte
+  AES-GCM-256              :      30501 KiB/s,         89 cycles/byte
+  CTR_DRBG (NOPR)          :      70167 KiB/s,         37 cycles/byte
+  CTR_DRBG (PR)            :      51363 KiB/s,         52 cycles/byte
+  ECDSA-secp384r1          :     154 sign/s
+  ECDSA-secp256r1          :     275 sign/s
+  ECDSA-secp384r1          :      78 verify/s
+  ECDSA-secp256r1          :     142 verify/s
+  ECDHE-secp384r1          :      41 full handshake/s
+  ECDHE-secp256r1          :      76 full handshake/s

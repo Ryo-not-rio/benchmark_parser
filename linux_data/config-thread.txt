@@ -1,0 +1,12 @@
+  SHA-256                  :     103669 KiB/s,         28 cycles/byte
+  AES-CCM-128              :      38818 KiB/s,         70 cycles/byte
+  AES-CCM-192              :      34569 KiB/s,         78 cycles/byte
+  AES-CCM-256              :      31804 KiB/s,         86 cycles/byte
+  AES-CMAC-128             :      76084 KiB/s,         36 cycles/byte
+  AES-CMAC-192             :      67247 KiB/s,         42 cycles/byte
+  AES-CMAC-256             :      59698 KiB/s,         45 cycles/byte
+  AES-CMAC-PRF-128         :      72723 KiB/s,         37 cycles/byte
+  CTR_DRBG (NOPR)          :      74642 KiB/s,         36 cycles/byte
+  CTR_DRBG (PR)            :      54703 KiB/s,         48 cycles/byte
+  HMAC_DRBG SHA-256 (NOPR) :      10978 KiB/s,        243 cycles/byte
+  HMAC_DRBG SHA-256 (PR)   :       9593 KiB/s,        293 cycles/byte

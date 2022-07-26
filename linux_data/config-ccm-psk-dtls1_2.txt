@@ -1,0 +1,6 @@
+SHA-256                  :     101934 KiB/s,          0 cycles/byte
+AES-CCM-128              :      38449 KiB/s,          0 cycles/byte
+AES-CCM-192              :      33995 KiB/s,          0 cycles/byte
+AES-CCM-256              :      30678 KiB/s,          0 cycles/byte
+CTR_DRBG (NOPR)          :      75336 KiB/s,          0 cycles/byte
+CTR_DRBG (PR)            :      51596 KiB/s,          0 cycles/byte

@@ -1,0 +1,18 @@
+SHA-256                  :     158101 KiB/s,         15 cycles/byte
+  SHA-512                  :     153622 KiB/s,         22 cycles/byte
+  AES-CBC-128              :      64873 KiB/s,         67 cycles/byte
+  AES-CBC-192              :      55773 KiB/s,         45 cycles/byte
+  AES-CBC-256              :      62685 KiB/s,         38 cycles/byte
+  AES-GCM-128              :      38727 KiB/s,         66 cycles/byte
+  AES-GCM-192              :      43244 KiB/s,         43 cycles/byte
+  AES-GCM-256              :      55454 KiB/s,         37 cycles/byte
+  AES-CCM-128              :      40816 KiB/s,         58 cycles/byte
+  AES-CCM-192              :      39931 KiB/s,         54 cycles/byte
+  AES-CCM-256              :      35845 KiB/s,         59 cycles/byte
+  HMAC_DRBG SHA-256 (NOPR) :      15872 KiB/s,        142 cycles/byte
+  HMAC_DRBG SHA-256 (PR)   :      13873 KiB/s,        172 cycles/byte
+  ECDSA-secp384r1          :     725 sign/s
+  ECDSA-secp256r1          :     897 sign/s
+  ECDSA-secp384r1          :     178 verify/s
+  ECDSA-secp256r1          :     270 verify/s
+
